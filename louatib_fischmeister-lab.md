@@ -1,4 +1,3 @@
-# hadoop-examples-mapreduce
 ######## Hanaa LOUATIB - Anna FISCHMEISTER ##########
 
 # MapReduceJava Lab
